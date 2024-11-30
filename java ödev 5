@@ -1,0 +1,17 @@
+package ödevler;
+
+public class ödev5 {
+
+	public static void main(String[] args) {
+		 // 1'den 100'e kadar olan sayılardan sadece çift olanları yazdıran for döngüsü
+		        for (int i = 1; i <= 100; i++) {
+		            if (i % 2 == 0) {  // Sayı çift ise
+		                System.out.println(i);
+		            }
+		        }
+		    }
+		
+
+	}
+
+
