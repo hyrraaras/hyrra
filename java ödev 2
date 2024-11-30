@@ -1,0 +1,15 @@
+package ödevler;
+
+public class soru2 {
+
+	public static void main(String[] args) {
+		// üstten alta doğru geometrik olarak azzalan yıldızlardan oluşan nir piramit.
+		for(int a=10; a>=1; a--) {
+			for(int b=1; b<=a; b++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+	}
+
+}
