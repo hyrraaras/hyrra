@@ -8,6 +8,7 @@ public class PenFactor {
 	 firstpen.color="black";
 	 firstpen.height=12;
 	 firstpen.Writemassage(message);
+		
 	 Pen secondpen =new Pen();
 	 String message1="Second pen producted";
 	 secondpen.color="purple";
